@@ -1,0 +1,58 @@
+body {
+	margin: 0;
+}
+
+
+h1 {
+	padding-top: 50px;
+	color: yellow;
+	width: 300px;
+	height: 100px;
+	margin: auto;
+	background: rgba(255, 255, 0, .3);
+	border-radius: 20px;
+	border-style: solid;
+	border-color: yellow;
+	font-family: monospace;
+}
+
+
+.parallax {
+	background-image: url("background.jpg");
+	height: 600px;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+.parallax_2 {
+	background-image: url("background.jpg");
+	height: 100px;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+.slide {
+	background-color: yellow;
+	padding: 20px;
+}
+
+
+#quiz {
+	
+	padding: 20px;
+	
+}
+
+p {
+	font-family: sans-serif;
+	color: red;
+
+}
+
+h2 {
+	font-family: sans-serif;
+}
+.question ul {
+  list-style: none;
+  font-family: sans-serif;
+}
